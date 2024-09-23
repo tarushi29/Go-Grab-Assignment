@@ -1,0 +1,13 @@
+todo-app/
+│
+├── App.js
+├── package.json
+├── assets/
+│   └── icon.png
+├── components/
+│   └── TaskItem.js
+└── screens/
+    ├── HomeScreen.js
+    ├── TodoListScreen.js
+    ├── TaskDetailScreen.js
+    └── TaskFormScreen.js
